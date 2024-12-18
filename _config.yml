@@ -25,7 +25,7 @@ author:
   name             : "  Shien Ke"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "Beijing Jiaotong University"
   uri              : # URL
   email            : "bjtu_keshien@163.com" 
