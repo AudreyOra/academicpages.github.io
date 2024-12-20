@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shien Ke / Site Title"
+title                    : "Shien Ke / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "AudreyOra/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/personal_photo.png"
+  avatar           : "personal_photo.png"
   name             : "  Shien Ke"
   pronouns         : # example: "she/her"  
   bio              : "a fourth year undergraduate student"
